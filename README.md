@@ -24,6 +24,6 @@ I'm a Data Analyst who is passionate about new technologies and open-source soft
 - on <a href="https://www.linkedin.com/in/chasinggreg/">LinkedIn</a>
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[![Spotify](https://spotify-github.chasinggreg.vercel.app/api/spotify)](https://open.spotify.com/user/gncsmith)
 
 [website]: http://chasinggreg.com
