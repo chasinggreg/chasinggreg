@@ -1,5 +1,5 @@
 <img src="https://github.com/chasinggreg/chasinggreg/blob/master/header.png?raw=true" alt="banner that says Greg Smith - ">
-<br />
+
 ---
 <br />
 
