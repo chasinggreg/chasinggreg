@@ -1,11 +1,11 @@
-<img src="https://github.com/chasinggreg/chasinggreg/blob/master/header.png?raw=true" alt="banner that says Greg Smith - ">
+-- <img src="https://github.com/chasinggreg/chasinggreg/blob/master/header.png?raw=true" alt="banner that says Greg Smith - ">
 
 ---
 <br />
 
 ### Hi, I'm Greg aka [chasinggreg][website]
 
-I'm a Data Analyst who is passionate about new technologies and open-source software.
+I'm a Database Administrator who is passionate about new technologies and open-source software.
 
 <br />
 
