@@ -5,7 +5,7 @@
 
 ### Hi, I'm Greg aka [chasinggreg][website]
 
-I'm a Database Administrator who is passionate about new technologies and open-source software.
+I'm a Data Analyst who is passionate about new technologies and open-source software.
 
 <br />
 
