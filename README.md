@@ -1,33 +1,34 @@
-
-
----
-<br />
-
-### Hi, I'm Greg aka [chasinggreg][website]
-
-I'm a Data Analyst who is passionate about new technologies and open-source software.
-
-<br />
-
-### Languages and Tools
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
-
----
-### Connect with me:
-- on <a href="https://www.twitter.com/chasinggreg">Twitter</a>
-- on <a href="https://www.chasinggreg.com">chasinggreg.com</a>
-- on <a href="https://www.linkedin.com/in/chasinggreg/">LinkedIn</a>
+<h1 align = "center">Greg Smith
+</h1>
+<p align="center">
+Hi, I'm Greg, a Data Analyst who is passionate about new technologies and open-source software.</h1>
+</p>
+<br>
+<h2 align="center">📄 Favorite Languages:</h2>
+<p align="center">
+<a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/-SQL-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"/></a> 
+<a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"/></a>
+<a target="_blank"><img alt="CSharp" src="https://img.shields.io/badge/CSharp-%2312100E.svg?logo=CSharp&style=for-the-badge&logoColor=blue"/></a>
+</p>
+<h3 align="center">⚒ Tools I use:</h3>
+<p align="center">
+<a target="_blank"><img alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"/></a> 
+<a target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?logo=visual-studio-code&style=for-the-badge&logoColor=blue"/></a> 
+<a target="_blank"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-%2312100E.svg?logo=visual-studio&style=for-the-badge&logoColor=purple"/></a> 
+<a target="_blank"><img alt="Power BI" src="https://img.shields.io/badge/PowerBI-black?logo=Power%20BI&logoColor=yellow&style=for-the-badge"/></a> 
+<a target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-%2312100E.svg?logo=git&style=for-the-badge"/></a> 
+<a target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=GitHub&style=for-the-badge"/></a> 
+</p>
+<h3 align="center">Find me on</h3>
+<p align="center">
+<a href="https://github.com/chasinggreg" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/chasinggreg" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a>
+<br>
+</p>
 
 ### Spotify Playing 🎧
-[![Spotify](https://spotify-github.chasinggreg.vercel.app/api/spotify)](https://open.spotify.com/user/gncsmith)
-
-[website]: http://chasinggreg.com
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gncsmith&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<br>
+<p align="center">
+website: http://chasinggreg.com
+</p>
