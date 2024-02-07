@@ -8,7 +8,6 @@ Hi, I'm Greg, a Data Analyst who is passionate about new technologies and open-s
 <p align="center">
 <a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/-SQL-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"/></a> 
 <a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"/></a>
-<a target="_blank"><img alt="CSharp" src="https://img.shields.io/badge/CSharp-%2312100E.svg?logo=CSharp&style=for-the-badge&logoColor=blue"/></a>
 </p>
 <h3 align="center">⚒ Tools I use:</h3>
 <p align="center">
