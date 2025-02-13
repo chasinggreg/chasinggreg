@@ -19,7 +19,7 @@ chasinggreg/chasinggreg is a special repository: its README.md will appear on yo
 <p align="center">
 
 [![Connect on LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chasinggreg/)
-[![View Website](https://img.shields.io/badge/website-8A2BE2.svg?&style=for-the-badge&logo=website&logoColor=white)](https://www.chasinggreg.com/)
+[![View Website](https://img.shields.io/badge/website-8A2BE2.svg?&style=for-the-badge&logo=website&logoColor=white)](https://chasinggreg.com/)
 
 </p>
 <br />
